@@ -1,5 +1,5 @@
 # Universidad Nacional de Luján
-## Introducción a la Informática
+## Introducción a la Programación (11071) - Departamento de Ciencias Básicas
 
 ### Clases Teoricas
 
